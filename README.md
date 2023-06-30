@@ -1,3 +1,8 @@
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="banner"/>
+<h1 align="center">Hi 👋, I'm Sombit Pramanik</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width=1000 alt="banner"/>
+
 # 💫 About Me:
 🔭 I’m currently working on Portfolio Website<br>🌱 I’m currently learning Data Structure & Algorithms , React, <br>💬 Ask me about Python, Frontend Development
 
