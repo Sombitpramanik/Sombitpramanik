@@ -4,7 +4,7 @@
 <img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width=1000 alt="banner"/>
 
 # 💫 About Me:
-🔭 I’m currently working on Portfolio Website<br>🌱 I’m currently learning Data Structure & Algorithms & React, <br>💬 Ask me about Python, Frontend Development
+🔭 I’m currently working on a Business website<br>Live Link <a href="https://barber.sombti-server.online>U-BARBER</a><br>🌱 I’m currently learning Data Structure & Algorithms & Full Stack Web Dev <br>💬 Ask me about Python, Web Development
 
 
 ## 🌐 Socials:
