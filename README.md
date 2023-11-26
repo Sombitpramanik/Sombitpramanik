@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sombit Pramanik</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
-<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="banner"/> -->
+<h3 align="center">Engineer, Developer, Cyber Security, Python</h3>
 <img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width=1000 alt="banner"/>
 
 # 💫 About Me:
