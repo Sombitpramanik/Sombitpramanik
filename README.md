@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sombit Pramanik</h1>
 <h3 align="center">Engineer, Developer, Cyber Security, Python</h3>
-<img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width=1000 alt="banner"/>
 
 # 💫 About Me:
 🔭 I’m currently working on a Business website<br>Live Link https://theqrcode.site <br>🌱 I’m currently learning Data Structure & Algorithms & Full Stack Web Dev <br>💬 Ask me about Python, Web Development
