@@ -2,7 +2,7 @@
 <h3 align="center">Engineer, Developer, Cyber Security, Python</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a Business website<br>Live Link https://theqrcode.site <br>🌱 I’m currently learning Data Structure & Algorithms & Full Stack Web Dev <br>💬 Ask me about Python, Web Development
+🔭 I’m currently working on Face Recognition on RPI which is a Drone Project by my College and proposed by IIST Sibpur<br>Live Link https://github.com/Sombitpramanik/FaceRecognitionOnRPI/ <br>🌱 I’m currently learning Data Structure & Algorithms & Full Stack Web Dev <br>💬 Ask me about Python, Web Development
 
 
 ## 🌐 Socials:
